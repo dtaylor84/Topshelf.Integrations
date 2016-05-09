@@ -37,7 +37,7 @@ namespace Topshelf.Quartz.Tests
         }
 
         [Test]
-        [Ignore]
+        [Ignore("Ignore")]
         public void TestCanScheduleJobAsService()
         {
             Host host = HostFactory.New(configurator =>

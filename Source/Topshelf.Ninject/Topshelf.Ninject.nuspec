@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
-<package >
+<package>
   <metadata>
     <id>Topshelf.Ninject</id>
-    <version>0.4.0.0</version>
-    <title>Topshelf.Ninject</title>
+    <version>0.4.1-mdl1</version>
+    <title>Topshelf.Ninject [MDL FORK]</title>
     <authors>Mark Huber</authors>
-    <owners>Dealertrack Interactive</owners>
+    <owners>David Taylor</owners>
     <licenseUrl>https://github.com/dtinteractive/Topshelf.Integrations/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://www.github.com/dtinteractive/Topshelf.Integrations/</projectUrl>
+    <projectUrl>https://github.com/dtaylor84/Topshelf.Integrations</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Topshelf.Ninject provides extensions to construct your service class from your Ninject IoC container.</description>
-    <releaseNotes>0.4.0 - Updated dependencies on TopShelf and Ninject</releaseNotes>
+    <releaseNotes>0.4.1 - Updated dependencies on TopShelf and Ninject</releaseNotes>
     <copyright>Copyright Dealertrack Interactive 2015</copyright>
     <tags>Topshelf Ninject</tags>
     <dependencies>
